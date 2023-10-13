@@ -19,8 +19,8 @@ const DUMMY_EXPENSE = [
   {
     id: "e4",
     title: "New Desk (Wooden)",
-    amount: 450,
-    date: new Date(2022, 5, 12),
+    amount: 350,
+    date: new Date(2022, 2, 12),
   },
   {
     id: "e5",
